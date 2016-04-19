@@ -4,4 +4,6 @@ __author__ = 'Michal Marczynski'
 def sumuj(a,b):
 	return a+b
 
+def odejmij(a,b):
+	return a-b
 
