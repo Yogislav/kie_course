@@ -7,4 +7,4 @@ def sumuj(c,d):
 def odejmij(a,b):
 	return a-b
 
-AAAAAAAAAA
+AAAABBBBBBA
