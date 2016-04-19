@@ -7,3 +7,4 @@ def sumuj(a,b):
 def odejmij(a,b):
 	return a-b
 
+AHSHDGASHDGAS
